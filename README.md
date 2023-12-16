@@ -9,7 +9,7 @@ python ./bs4_parser/parse_psiholog_ru.py --save_path some_new_folder_with_data
 
 В коде есть простая система обхода Anti-DDos защиты сайта.
 
-Этот датасет можно найти на [Kaggle](https://www.kaggle.com/rogozinushka/psychologist_answers) и [HuggingFace](https://huggingface.co/datasets/rogozinushka/psychologist_answers).
+Этот датасет можно найти на [Kaggle](https://www.kaggle.com/rogozinushka/psychologist-answers) и [HuggingFace](https://huggingface.co/datasets/rogozinushka/psychologist_answers).
 
 В итоге получится датафрейм с такой структурой
 
@@ -30,7 +30,7 @@ During the execution of the script, there will be a progress bar with the approx
 
 The code include simple Anti-DDos bypass.
 
-This dataset was uploaded to [Kaggle](https://www.kaggle.com/rogozinushka/psychologist_answers) and [HuggingFace](https://huggingface.co/datasets/rogozinushka/psychologist_answers).
+This dataset was uploaded to [Kaggle](https://www.kaggle.com/rogozinushka/psychologist-answers) and [HuggingFace](https://huggingface.co/datasets/rogozinushka/psychologist_answers).
 
 Finally, this dataframe will be made
 
